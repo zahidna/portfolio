@@ -15,6 +15,56 @@ export default class Lac extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                 <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-paper-stack" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>React-Redux   <span>2021</span></h2>
+                        <p>A course on <a href="https://www.sololearn.com/learning" target="_blank" rel="noopener noreferrer">SoloLearn</a><br></br>
+                           Credential ID: 1097-3751641<br></br>
+                           <a href="https://www.sololearn.com/Certificate/1097-3751641/jpg" target="_blank" rel="noopener noreferrer">Certificate Credentials</a></p>
+                      </div>
+                    </div>
+                  </article>
+                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-paper-stack" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Data Science Foundations - Level 2 (V2)   <span>2021</span></h2>
+                        <p>Powered by IBM Developer Skills Network.<br></br>
+                           <a href="https://www.youracclaim.com/badges/05493acc-67ac-48a1-960e-89a9d8df5d62?source=linked_in_profile" target="_blank" rel="noopener noreferrer">Badge Credentials</a></p>
+                      </div>
+                    </div>
+                  </article>
+                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-paper-stack" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Data Science Methodologies   <span>2021</span></h2>
+                        <p>Powered by IBM Developer Skills Network.<br></br>
+                           <a href="https://www.youracclaim.com/badges/20257744-8ba9-4dc2-b98e-557d0cda8c71?source=linked_in_profile" target="_blank" rel="noopener noreferrer">Badge Credentials</a></p>
+                      </div>
+                    </div>
+                  </article>
+                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-paper-stack" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Data Science Methodology (DS0103EN)   <span>2021</span></h2>
+                        <p>A course on <a href="cognitiveclass.ai" target="_blank" rel="noopener noreferrer">Cognitive Class</a> and Powered by IBM Developer Skills Network.<br></br>
+                           Certiﬁcate ID Number:  d3932c93c9794400b52000bb7a14a539<br></br>
+                           <a href="https://courses.cognitiveclass.ai/certificates/d3932c93c9794400b52000bb7a14a539" target="_blank" rel="noopener noreferrer">Certificate Credentials</a></p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
